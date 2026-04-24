@@ -10,15 +10,15 @@ If you find this code helpful to your work, please cite our paper:
 Junjun Huang, Xiliang Lu, Xuelin Xie, and Jerry Zhijian Yang. Robust Fuzzy local k-plane clustering with mixture distance of hinge loss and L1 norm. IEEE Transactions on Knowledge and Data Engineering, 2025, 37 (9): 5584-5597.
 
 ```bibtex
-@article{xie2024theta,
-  title={Theta-regularized Kriging: Modeling and algorithms},
-  author={Xie, Xuelin and Lu, Xiliang},
-  journal={Applied Mathematical Modelling},
-  volume={136},
-  pages={115627},
-  year={2024},
-  publisher={Elsevier},
-  doi={10.1016/j.apm.2024.07.034}
+@article{huang2025robust,
+  title={Robust Fuzzy local k-plane clustering with mixture distance of hinge loss and $ L\_ $\{$1$\}$ $ norm},
+  author={Huang, Junjun and Lu, Xiliang and Xie, Xuelin and Yang, Jerry Zhijian},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume  = {37},
+  number  = {9},
+  pages={5584-5597},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
