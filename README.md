@@ -14,8 +14,8 @@ Junjun Huang, Xiliang Lu, Xuelin Xie, and Jerry Zhijian Yang. Robust Fuzzy local
   title={Robust Fuzzy local k-plane clustering with mixture distance of hinge loss and $ L\_ $\{$1$\}$ $ norm},
   author={Huang, Junjun and Lu, Xiliang and Xie, Xuelin and Yang, Jerry Zhijian},
   journal={IEEE Transactions on Knowledge and Data Engineering},
-  volume  = {37},
-  number  = {9},
+  volume={37},
+  number={9},
   pages={5584-5597},
   year={2025},
   publisher={IEEE}
