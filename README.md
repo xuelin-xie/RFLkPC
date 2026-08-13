@@ -13,15 +13,15 @@ If you find this code helpful to your work, please cite our paper:
 Junjun Huang, Xiliang Lu, Xuelin Xie, and Jerry Zhijian Yang. Robust Fuzzy local k-plane clustering with mixture distance of hinge loss and L1 norm. IEEE Transactions on Knowledge and Data Engineering, 2025, 37 (9): 5584-5597.
 
 ```bibtex
-@article{huang2025robust,
-  title={Robust Fuzzy local k-plane clustering with mixture distance of hinge loss and $ L\_ $\{$1$\}$ $ norm},
+@ARTICLE{huangrobust2025,
   author={Huang, Junjun and Lu, Xiliang and Xie, Xuelin and Yang, Jerry Zhijian},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
+  journal={IEEE Trans. Knowl. Data Eng.}, 
+  title={Robust Fuzzy Local K-Plane Clustering With Mixture Distance of Hinge Loss and $L_{1}$ Norm}, 
+  year={2025},
   volume={37},
   number={9},
   pages={5584-5597},
-  year={2025},
-  publisher={IEEE}
+  doi={10.1109/TKDE.2025.3582849}
 }
 ```
 
